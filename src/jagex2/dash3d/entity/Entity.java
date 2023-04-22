@@ -2,8 +2,8 @@ package jagex2.dash3d.entity;
 
 import jagex2.datastruct.Linkable;
 import jagex2.graphics.Model;
-import org.openrs2.deob.annotation.OriginalClass;
-import org.openrs2.deob.annotation.OriginalMember;
+import openrs2.deob.annotation.OriginalClass;
+import openrs2.deob.annotation.OriginalMember;
 
 @OriginalClass("client!w")
 public class Entity extends Linkable {

@@ -1,10 +1,10 @@
 package jagex2.sound;
 
 import jagex2.io.Packet;
-import org.openrs2.deob.annotation.OriginalArg;
-import org.openrs2.deob.annotation.OriginalClass;
-import org.openrs2.deob.annotation.OriginalMember;
-import org.openrs2.deob.annotation.Pc;
+import openrs2.deob.annotation.OriginalArg;
+import openrs2.deob.annotation.OriginalClass;
+import openrs2.deob.annotation.OriginalMember;
+import openrs2.deob.annotation.Pc;
 
 // Wave: Synthesizes sounds into a Wave format
 @OriginalClass("client!yb")

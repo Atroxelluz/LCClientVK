@@ -2,9 +2,9 @@ package jagex2.dash3d.entity;
 
 import jagex2.config.SeqType;
 import jagex2.datastruct.Linkable;
-import org.openrs2.deob.annotation.OriginalArg;
-import org.openrs2.deob.annotation.OriginalClass;
-import org.openrs2.deob.annotation.OriginalMember;
+import openrs2.deob.annotation.OriginalArg;
+import openrs2.deob.annotation.OriginalClass;
+import openrs2.deob.annotation.OriginalMember;
 
 @OriginalClass("client!nb")
 public final class LocEntity extends Linkable {

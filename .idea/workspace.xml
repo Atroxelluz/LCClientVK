@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc8faa0d-87e7-4a7d-95fc-399fb6a3fa7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/null.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/ClientProt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/ClientProt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/ServerProt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/ServerProt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/annotations/OriginalArg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openrs2.deob.annotation/OriginalArg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/annotations/OriginalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openrs2.deob.annotation/OriginalClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/annotations/OriginalMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openrs2.deob.annotation/OriginalMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/annotations/Pc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openrs2.deob.annotation/Pc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/client/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/client/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/client/GameShell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/client/GameShell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/client/Signlink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/client/Signlink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/client/TrackInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/client/TrackInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/client/WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/client/WordFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/client/WordPack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/client/WordPack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/config/FloType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/config/FloType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/config/IdkType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/config/IdkType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/config/IfType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/config/IfType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/config/LocType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/config/LocType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/config/NpcType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/config/NpcType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/config/ObjType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/config/ObjType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/config/SeqType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/config/SeqType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/config/SpotAnimType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/config/SpotAnimType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/config/VarpType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/config/VarpType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/CollisionMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/CollisionMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/Occluder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/Occluder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/World3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/World3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/entity/LocEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/entity/LocEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/entity/NpcEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/entity/NpcEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/entity/ObjEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/entity/ObjEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/entity/PathingEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/entity/PathingEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/entity/PlayerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/entity/PlayerEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/entity/ProjectileEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/entity/ProjectileEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/entity/SpotAnimEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/entity/SpotAnimEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/GroundDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/GroundDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/GroundObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/GroundObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/Loc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/Loc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/LocSpawned.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/LocSpawned.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/LocTemporary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/LocTemporary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/TileOverlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/TileOverlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/TileUnderlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/TileUnderlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/dash3d/type/WallDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/dash3d/type/WallDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/datastruct/Hashable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/datastruct/Hashable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/datastruct/Hashtable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/datastruct/Hashtable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/datastruct/JString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/datastruct/JString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/datastruct/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/datastruct/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/datastruct/Linkable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/datastruct/Linkable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/datastruct/LruCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/datastruct/LruCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/datastruct/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/datastruct/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/graphics/BitmapFont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/graphics/BitmapFont.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/graphics/Draw2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/graphics/Draw2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/graphics/Draw3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/graphics/Draw3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/graphics/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/graphics/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/graphics/Pix24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/graphics/Pix24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/graphics/Pix8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/graphics/Pix8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/graphics/PixMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/graphics/PixMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/graphics/SeqBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/graphics/SeqBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/graphics/SeqFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/graphics/SeqFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/io/BZip2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/io/BZip2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/io/ClientStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/io/ClientStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/io/Isaac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/io/Isaac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/io/Jagfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/io/Jagfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/io/Packet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/io/Packet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jagex2/sound/Wave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jagex2/sound/Wave.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OlCBQa0GVYnG0vJJhuPyVQX86i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Atroxelluz\Documents\GitHub\LCClientVK\src\openrs2.deob.annotation" />
+      <recent name="C:\Users\Atroxelluz\Documents\GitHub\LCClientVK\src" />
+      <recent name="C:\Users\Atroxelluz\Documents\GitHub\LCClientVK\src\main\jagex2" />
+      <recent name="C:\Users\Atroxelluz\Documents\GitHub\LCClientVK\src\main\java" />
+      <recent name="C:\Users\Atroxelluz\Documents\GitHub\LCClientVK\ref" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="jagex2.client" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc8faa0d-87e7-4a7d-95fc-399fb6a3fa7d" name="Changes" comment="" />
+      <created>1682125646257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682125646257</updated>
+    </task>
+    <servers />
+  </component>
+</project>

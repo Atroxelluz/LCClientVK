@@ -1,10 +1,10 @@
 package jagex2.dash3d.entity;
 
 import jagex2.config.SeqType;
-import org.openrs2.deob.annotation.OriginalArg;
-import org.openrs2.deob.annotation.OriginalClass;
-import org.openrs2.deob.annotation.OriginalMember;
-import org.openrs2.deob.annotation.Pc;
+import openrs2.deob.annotation.OriginalArg;
+import openrs2.deob.annotation.OriginalClass;
+import openrs2.deob.annotation.OriginalMember;
+import openrs2.deob.annotation.Pc;
 
 @OriginalClass("client!x")
 public class PathingEntity extends Entity {

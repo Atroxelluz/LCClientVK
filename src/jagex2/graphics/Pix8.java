@@ -2,10 +2,10 @@ package jagex2.graphics;
 
 import jagex2.io.Jagfile;
 import jagex2.io.Packet;
-import org.openrs2.deob.annotation.OriginalArg;
-import org.openrs2.deob.annotation.OriginalClass;
-import org.openrs2.deob.annotation.OriginalMember;
-import org.openrs2.deob.annotation.Pc;
+import openrs2.deob.annotation.OriginalArg;
+import openrs2.deob.annotation.OriginalClass;
+import openrs2.deob.annotation.OriginalMember;
+import openrs2.deob.annotation.Pc;
 
 // Pix8: Image format storing pixels as 8-bit indices into a palette
 @OriginalClass("client!ib")

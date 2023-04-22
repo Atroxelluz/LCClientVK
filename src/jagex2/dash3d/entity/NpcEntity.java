@@ -4,9 +4,9 @@ import jagex2.config.NpcType;
 import jagex2.config.SeqType;
 import jagex2.config.SpotAnimType;
 import jagex2.graphics.Model;
-import org.openrs2.deob.annotation.OriginalClass;
-import org.openrs2.deob.annotation.OriginalMember;
-import org.openrs2.deob.annotation.Pc;
+import openrs2.deob.annotation.OriginalClass;
+import openrs2.deob.annotation.OriginalMember;
+import openrs2.deob.annotation.Pc;
 
 @OriginalClass("client!y")
 public final class NpcEntity extends PathingEntity {

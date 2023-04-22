@@ -1,9 +1,9 @@
 package jagex2.dash3d.type;
 
 import jagex2.datastruct.Linkable;
-import org.openrs2.deob.annotation.OriginalArg;
-import org.openrs2.deob.annotation.OriginalClass;
-import org.openrs2.deob.annotation.OriginalMember;
+import openrs2.deob.annotation.OriginalArg;
+import openrs2.deob.annotation.OriginalClass;
+import openrs2.deob.annotation.OriginalMember;
 
 @OriginalClass("client!cb")
 public final class Tile extends Linkable {

@@ -1,6 +1,6 @@
 package jagex2;
 
-import org.openrs2.deob.annotation.OriginalMember;
+import openrs2.deob.annotation.OriginalMember;
 
 public class ServerProt {
 

@@ -8,10 +8,10 @@ import jagex2.datastruct.LinkList;
 import jagex2.graphics.Draw3D;
 import jagex2.graphics.Model;
 import jagex2.io.Packet;
-import org.openrs2.deob.annotation.OriginalArg;
-import org.openrs2.deob.annotation.OriginalClass;
-import org.openrs2.deob.annotation.OriginalMember;
-import org.openrs2.deob.annotation.Pc;
+import openrs2.deob.annotation.OriginalArg;
+import openrs2.deob.annotation.OriginalClass;
+import openrs2.deob.annotation.OriginalMember;
+import openrs2.deob.annotation.Pc;
 
 // World: Constructs the world
 @OriginalClass("client!c")
