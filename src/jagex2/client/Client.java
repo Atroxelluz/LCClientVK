@@ -1,19 +1,7 @@
 package jagex2.client;
 
-import jagex2.config.*;
-import jagex2.dash3d.entity.*;
-import jagex2.datastruct.JString;
-import jagex2.datastruct.LinkList;
-import jagex2.dash3d.CollisionMap;
-import jagex2.dash3d.Occluder;
-import jagex2.dash3d.World3D;
-import jagex2.dash3d.World;
-import jagex2.graphics.*;
-import jagex2.io.*;
-import jagex2.dash3d.type.LocSpawned;
-import jagex2.dash3d.type.LocTemporary;
-import jagex2.ServerProt;
-import jagex2.sound.Wave;
+import com.sun.xml.internal.ws.api.message.Packet;
+import jagex2.client.GameShell;
 import org.openrs2.deob.annotation.OriginalArg;
 import org.openrs2.deob.annotation.OriginalClass;
 import org.openrs2.deob.annotation.OriginalMember;
